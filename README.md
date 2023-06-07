@@ -1,3 +1,9 @@
+# Preview
+
+![Main page](https://i.ibb.co/CmTN96v/image.png)
+![Authentication Page](https://i.ibb.co/vcWFWG8/image.png)
+![Success Page](https://i.ibb.co/TYYchsj/image.png)
+
 # How to run the project
 
 • Open the root directory (in which the package.json is located) in a terminal
